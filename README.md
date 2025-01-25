@@ -1,14 +1,11 @@
 ## Hi there 👋
 # Chirag Goyal
 
-🔭 **I’m currently working on:**
-- Vehicle Routing Problem optimization using Deep Reinforcement Learning at Genpact AIML (Jul 2024 – Dec 2024). Developed a model leveraging LSTM encoder-decoder with attention and Proximal Policy Optimization, reducing logistics costs by 15%.
-
 🌱 **I’m currently learning:**
-- Advanced reinforcement learning techniques for optimization problems and applications in NLP with large language models.
+- Agentic AI framework and Graph RAG and CAG techniques.
 
 👯 **I’m looking to collaborate on:**
-- AI/ML research projects, especially in reinforcement learning, natural language processing, and AI-driven optimization.
+- AI/ML research projects, especially in GenAI(LLMs), reinforcement learning, natural language processing, and AI-driven optimization.
 
 💬 **Ask me about:**
 - Reinforcement Learning (PPO, actor-critic frameworks)
@@ -18,12 +15,6 @@
 📫 **How to reach me:**
 - Email: chirag.goyal.mail@gmail.com
 - [LinkedIn](https://linkedin.com/in/chirag)
-- [GitHub](https://github.com/ChiragGoyal07)
-
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:**
-- I automated FAQ responses for a nanosatellite project using Google PaLM LLM, reducing manpower by 80%!
 
 ---
 
