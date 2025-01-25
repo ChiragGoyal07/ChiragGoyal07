@@ -30,22 +30,6 @@
 
 ---
 
-## 📚 Projects
-
-**DocQuery AI** | April 2024 – July 2024
-- Built an advanced RAG-based Q&A app using AWS Bedrock, LangChain, and Titan embeddings with FAISS.
-
-**End-to-End Phishing Detection System** | Nov 2023 – Feb 2024
-- Designed an ETL pipeline and real-time phishing detection API deployed via Flask, Docker, and AWS EC2.
-
-**Graphy** | Oct 2023 – Dec 2023
-- Developed a graph database querying tool using Neo4J and OpenAI APIs for document insights.
-
-**ClassifyXpert** | Dec 2022 – March 2023
-- Built a legal text classification system using LSTM and optimized model accuracy with advanced NLP techniques.
-
----
-
 ## 🏆 Position of Responsibility
 
 **Software Lead | Team Anant** (Apr 2022 – Dec 2023)
@@ -65,11 +49,8 @@
 
 ---
 
-✨ For more, check out my GitHub projects:
-- [Advance RAG App with AWS Bedrock](https://github.com/ChiragGoyal07/Advance-RAG-app-with-AWS-Bedrock)
-- [Phishing Detection System](https://github.com/ChiragGoyal07/Network-Security-For-Phising-Data)
-- [Graph-RAG](https://github.com/ChiragGoyal07/Graph-RAG)
-- [Legal Document Classifier](https://github.com/ChiragGoyal07/Legal-Document-Classifier)
+✨ For more, check out my GitHub projects:)
+
 
 <!--
 **ChiragGoyal07/ChiragGoyal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
