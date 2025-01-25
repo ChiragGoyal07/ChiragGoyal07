@@ -2,7 +2,7 @@
 # Chirag Goyal
 
 🌱 **I’m currently learning:**
-- Agentic AI framework, Graph RAG and CAG techniques.
+- Agentic AI frameworks, Graph RAG and CAG techniques.
 
 👯 **I’m looking to collaborate on:**
 - AI/ML research projects, especially in GenAI (LLMs), reinforcement learning, natural language processing, and AI-driven optimization.
