@@ -14,7 +14,7 @@
 
 📫 **How to reach me:**
 - Email: chirag.goyal.mail@gmail.com
-- [LinkedIn](https://linkedin.com/in/chirag)
+- [LinkedIn](https://www.linkedin.com/in/chirag-goyal-/)
 
 ---
 
